@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emlak", "emlak.csproj", "{98F6F4A6-C48C-422A-ADEC-334C1289DF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "..\ClassLibrary\ClassLibrary.csproj", "{DF97BEB8-F5C3-479D-8DB2-3637CF2FB043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F6F4A6-C48C-422A-ADEC-334C1289DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F6F4A6-C48C-422A-ADEC-334C1289DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F6F4A6-C48C-422A-ADEC-334C1289DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F6F4A6-C48C-422A-ADEC-334C1289DF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF97BEB8-F5C3-479D-8DB2-3637CF2FB043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF97BEB8-F5C3-479D-8DB2-3637CF2FB043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF97BEB8-F5C3-479D-8DB2-3637CF2FB043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF97BEB8-F5C3-479D-8DB2-3637CF2FB043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F20721C7-CDFB-4F13-BE8F-5E893DE63319}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+Oda Sayısına Gecersiz Giriş Yapıldı: -4
+Alana Gecersiz Giriş Yapıldı: -4
+Yaşına Gecersiz Giriş Yapıldı: 0
+Oda Sayısına Gecersiz Giriş Yapıldı: -4
+Alana Gecersiz Giriş Yapıldı: -4
+Oda Sayısına Gecersiz Giriş Yapıldı: -4
+Alana Gecersiz Giriş Yapıldı: -4
+Yaşına Gecersiz Giriş Yapıldı: -4
